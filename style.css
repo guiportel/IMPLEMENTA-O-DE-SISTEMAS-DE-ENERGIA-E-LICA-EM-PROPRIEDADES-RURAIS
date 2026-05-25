@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Energia Eólica Rural</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Implementação de Sistemas de Energia Eólica</h1>
+  <p>Energia limpa e sustentável para propriedades rurais.</p>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#sobre">Sobre</a></li>
+    <li><a href="#vantagens">Vantagens</a></li>
+    <li><a href="#desafios">Desafios</a></li>
+    <li><a href="#custos">Custos</a></li>
+  </ul>
+</nav>
+
+<section id="sobre">
+  <h2>O que é Energia Eólica?</h2>
+
+  <div class="content">
+    <div>
+      <p>
+        A energia eólica utiliza a força dos ventos para gerar eletricidade através de turbinas.
+      </p>
+
+      <p>
+        É uma solução sustentável para reduzir custos energéticos no meio rural.
+      </p>
+    </div>
+
+    <img src="https://images.unsplash.com/photo-1466611653911-95081537e5b7?q=80&w=1200&auto=format&fit=crop">
+  </div>
+</section>
+
+<section id="vantagens">
+  <h2>Vantagens</h2>
+
+  <div class="cards">
+
+    <div class="card">
+      <h3>Economia</h3>
+      <p>Redução da conta de energia.</p>
+    </div>
+
+    <div class="card">
+      <h3>Sustentabilidade</h3>
+      <p>Energia limpa e renovável.</p>
+    </div>
+
+    <div class="card">
+      <h3>Autonomia</h3>
+      <p>Menor dependência da rede elétrica.</p>
+    </div>
+
+  </div>
+</section>
+
+<section id="desafios">
+  <h2>Desafios</h2>
+
+  <div class="content">
+
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop">
+
+    <div>
+      <ul>
+        <li>Investimento inicial elevado;</li>
+        <li>Dependência do vento;</li>
+        <li>Manutenção especializada.</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<section id="custos">
+  <h2>Custos Médios</h2>
+
+  <table>
+
+    <tr>
+      <th>Tipo</th>
+      <th>Valor</th>
+    </tr>
+
+    <tr>
+      <td>Pequeno Porte</td>
+      <td>R$ 20 mil a R$ 80 mil</td>
+    </tr>
+
+    <tr>
+      <td>Médio Porte</td>
+      <td>R$ 80 mil a R$ 300 mil</td>
+    </tr>
+
+  </table>
+</section>
+
+<footer>
+  <p>Projeto sobre Energia Eólica Rural</p>
+</footer>
+
+<button class="btn-top" id="topBtn">↑</button>
+
+<script src="script.js"></script>
+
+</body>
+</html>
